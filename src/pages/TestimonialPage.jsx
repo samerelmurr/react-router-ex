@@ -2,7 +2,9 @@ import React from 'react'
 
 const TestimonialPage = () => {
   return (
-    <div>TestimonialPage</div>
+    <>
+      <h1>Testimonial Page</h1>
+    </>
   );
 }
 
